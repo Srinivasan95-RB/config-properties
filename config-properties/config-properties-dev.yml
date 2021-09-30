@@ -1,0 +1,2013 @@
+config:
+  campaign-big-banner:
+    android:
+      - image-url: ""
+        link: ""
+        service: ""
+        title: ""
+    ios:
+      - image-url: ""
+        link: ""
+        service: ""
+        title: ""
+  sbc:
+    sbc_headline: "スタートボーナスチャンスpositive05"
+    sbc_text: "お買い物・電子書籍・クレジットカードなど \n 楽天の便利なサービスを使い始めると"
+    sbc_entry_ids:
+      - ids: "163631"
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-09-30T00:00:00+09:00"
+    sbc_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/imgSbcLead@2x.png"
+    sbc_icons:
+      - service_key: "mall_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalIchiba@3x.png"
+      - service_key: "app_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalApp@3x.png"
+      - service_key: "card_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalCard@3x.png"
+      - service_key: "mno_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalMobileMno@3x.png"
+      - service_key: "bank_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalBank@3x.png"
+      - service_key: "energy_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalEnergy@3x.png"
+      - service_key: "keiba_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalKeiba@3x.png"
+      - service_key: "toolbar_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalWebsearch@3x.png"
+      - service_key: "rba_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRba@3x.png"
+      - service_key: "gora_flg"
+        url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalGora@3x.png"
+  campaign-list:
+    featured-banner-link: "https://point.rakuten.co.jp/doc/app/campaign/rspcampaign_entry0001.html"
+    featured-banner-image-url: "https://point.rakuten.co.jp/img/app/apptimize/img_android_home_entry_push.png"
+  coaching-condition:
+    common-message:
+      term-point:
+        - name: "message1"
+          user-attributes-id: 0
+          point-condition:
+            - value: 1000
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_over1000_nomobile"
+            - value: 50
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_less1000_nomobile"
+            - value: 0
+              text: ""
+              button-text: ""
+              link: ""
+        - name: "message2"
+          user-attributes-id: 1
+          point-condition:
+            - value: 1000
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_over1000_mobile"
+            - value: 50
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_less1000_mobile"
+    event-message:
+      term-point:
+        - name: "message1"
+          user-attributes-id: 0
+          point-condition:
+            - value: 1000
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_over1000_nomobile"
+            - value: 50
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_less1000_nomobile"
+            - value: 0
+              text: ""
+              button-text: ""
+              link: ""
+        - name: "message2"
+          user-attributes-id: 1
+          point-condition:
+            - value: 1000
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_over1000_mobile"
+            - value: 50
+              text: "ポイントを使ったお買い物でもポイントがつき、いつでもおトクな楽天市場がおススメ！"
+              button-text: "楽天市場を見る"
+              link: "https://www.rakuten.co.jp/?scid=coaching_pointlifeapp_limitedpoints_less1000_mobile"
+  rank_benefit:
+    sub_headline: "いつもご利用頂いているお客様へ"
+    headline: "会員限定の特別な体験"
+    more_read_text: "対象サービスをもっと見る"
+    more_read_url: "benefit.html"
+    benefits:
+      - servicekey: "mall_flg"
+        pickup: false
+        sc_id: "sc_id_mall_flg_0"
+        url:
+          d: "d_url_mall_0"
+          p: "p_url_mall_0"
+          g: "g_url_mall_0"
+          s: "s_url_mall_0"
+        image_url:
+          d: "d_image_url_mall_0"
+          p: "p_image_url_mall_0"
+          g: "g_image_url_mall_0"
+          s: "s_image_url_mall_0"
+        conditions:
+          - 0
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+      - servicekey: "bank_flg"
+        pickup: false
+        sc_id: "sc_id_bank_flg_0"
+        url:
+          d: "d_url_bank_0"
+          p: "p_url_bank_0"
+          g: "g_url_bank_0"
+          s: "s_url_bank_0"
+        image_url:
+          d: "d_image_url_bank_0"
+          p: "p_image_url_bank_0"
+          g: "g_image_url_bank_0"
+          s: "s_image_url_bank_0"
+        conditions:
+          - 1
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+      - servicekey: "toolbar_flg"
+        pickup: false
+        sc_id: "sc_id_toolbar_flg_0"
+        url:
+          d: "d_url_toolbar_0"
+          p: "p_url_toolbar_0"
+          g: "g_url_toolbar_0"
+          s: "s_url_toolbar_0"
+        image_url:
+          d: "d_image_url_toolbar_0"
+          p: "p_image_url_toolbar_0"
+          g: "g_image_url_toolbar_0"
+          s: "s_image_url_toolbar_0"
+        conditions:
+          - 2
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+      - servicekey: "rlife_flg"
+        pickup: false
+        sc_id: "sc_id_rlife_flg_0"
+        url:
+          d: "d_url_rlife_0"
+          p: "p_url_rlife_0"
+          g: "g_url_rlife_0"
+          s: "s_url_rlife_0"
+        image_url:
+          d: "d_image_url_rlife_0"
+          p: "p_image_url_rlife_0"
+          g: "g_image_url_rlife_0"
+          s: "s_image_url_rlife_0"
+        conditions:
+          - 3
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+      - servicekey: "energy_flg"
+        pickup: false
+        sc_id: "sc_id_energy_flg_0"
+        url:
+          d: "d_url_energy_0"
+          p: "p_url_energy_0"
+          g: "g_url_energy_0"
+          s: "s_url_energy_0"
+        image_url:
+          d: "d_image_url_energy_0"
+          p: "p_image_url_energy_0"
+          g: "g_image_url_energy_0"
+          s: "s_image_url_energy_0"
+        conditions:
+          - 1
+          - 2
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+      - servicekey: "toto_flg"
+        pickup: false
+        sc_id: "sc_id_toto_flg_0"
+        url:
+          d: "d_url_toto_0"
+          p: "p_url_toto_0"
+          g: "g_url_toto_0"
+          s: "s_url_toto_0"
+        image_url:
+          d: "d_image_url_toto_0"
+          p: "p_image_url_toto_0"
+          g: "g_image_url_toto_0"
+          s: "s_image_url_toto_0"
+        conditions:
+          - 0
+          - 1
+          - 2
+        new_service: false
+        start_date_time: "2021-09-15T00:00:00+09:00"
+        end_date_time: "2021-10-15T00:00:00+09:00"
+  sb:
+    header:
+      - sub_headline: "あなたの初めてを応援"
+        headline: "初利用でボーナスポイントをGETしよう!positive01"
+        headline_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/start1000_icons/imgStart1000Lead@2x.png"
+        headline_link_url: "https://point.rakuten.co.jp/doc/app/campaign/headline_link.html"
+        start_date_time: "2021-08-01T10:00:00+09:00"
+        end_date_time: "2121-08-31T09:59:59+09:00"
+    sbc_entry_ids:
+      - ids: "163631"
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - ids: "163632"
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+    background_color: "#FFFF00"
+    background_top_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/backgroundTopImageUrl.png"
+    background_bottom_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/backgroundBottomImageUrl.png"
+    not_yet_entered_message: "月はまだエントリーしてません"
+    entered_message: "ボーナスチャンス発動中"
+    entry_button_text: "エントリーして対応サービスをチェック"
+    entry_button_url: "https://point.rakuten.co.jp/doc/app/campaign/rspcampaign_entry0001.html"
+    more_button_text: "対象サービスをもっと見る"
+    more_button_url: "https://point.rakuten.co.jp/doc/app/campaign/all_service.html"
+    all_services_in_use_message:  "お客様は今月の対象サービスをすべてご利用頂いております。いつもご利用ありがとうございます。"
+    all_services_in_use_more_button_text:  "スタート1000トップを見る"
+    all_services_in_use_more_button_url:  "https://point.rakuten.co.jp/doc/app/campaign/all_service.html"
+    maintenance_message: "メンテナンス時に表示するメッセージ"
+    #    past date : System date - 3
+    maintenance_start_at: "2021-09-13T19:15:58+09:00"
+    #    past date : System date - 2
+    maintenance_end_at: "2021-09-14T19:30:58+09:00"
+    banners:
+      - service_key: "mall_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalIchiba@3x.pngTrue1"
+        banner_link_url: "https://point.rakuten.co.jp/mall.html"
+        pickup: true
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "research_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalResearch@3x.pngTrue2"
+        banner_link_url: "https://point.rakuten.co.jp/research.html"
+        pickup: true
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "bank_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalBank@3x.pngFalse1"
+        banner_link_url: "https://point.rakuten.co.jp/bank.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "gora_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalGora@3x.pngFalse2"
+        banner_link_url: "https://point.rakuten.co.jp/gora.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "rlife_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRlife@3x.pngFalse3"
+        banner_link_url: "https://point.rakuten.co.jp/rlife.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "pet_insurance_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalPetInsurance@3x.pngFalse4"
+        banner_link_url: "https://point.rakuten.co.jp/pet_insurance.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "insurance_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalInsurance@3x.pngFalse5"
+        banner_link_url: "https://point.rakuten.co.jp/insurance.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "buyback_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalBuyback@3x.pngFalse6"
+        banner_link_url: "https://point.rakuten.co.jp/buyback.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "raxy_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRaxy@3x.pngFalse7"
+        banner_link_url: "https://point.rakuten.co.jp/raxy.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "rpay_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRpay@3x.pngFalse8"
+        banner_link_url: "https://point.rakuten.co.jp/rpay.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "travel_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalTravel_@3x.pngFalse9"
+        banner_link_url: "https://point.rakuten.co.jp/travel.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "app_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalApp@3x.pngFalse10"
+        banner_link_url: "https://point.rakuten.co.jp/app.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "kobo_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalKobo@3x.pngFalse11"
+        banner_link_url: "https://point.rakuten.co.jp/kobo.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "young_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalYoung@3x.pngFalse12"
+        banner_link_url: "https://point.rakuten.co.jp/young.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "rba_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRba@3x.pngFalse13"
+        banner_link_url: "https://point.rakuten.co.jp/rba.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "ragri_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalRagri@3x.pngFalse14"
+        banner_link_url: "https://point.rakuten.co.jp/ragri.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "screen_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalScreen@3x.pngFalse15"
+        banner_link_url: "https://point.rakuten.co.jp/screen.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "mno_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalMno@3x.pngFalse16"
+        banner_link_url: "https://point.rakuten.co.jp/Mno.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "books_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalBooks@3x.pngFalse17"
+        banner_link_url: "https://point.rakuten.co.jp/books.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+      - service_key: "shaken_flg"
+        banner_image_url: "https://point.rakuten.co.jp/club/inc/output/sp/apptimize/sbc_icons/icoNormalShaken@3x.pngFalse18"
+        banner_link_url: "https://point.rakuten.co.jp/shaken.html"
+        pickup: false
+        new_service: true
+        start_date_time: "2021-09-01T10:00:00+09:00"
+        end_date_time: "2121-09-30T09:59:59+09:00"
+  happy-news:
+    daily_topic:
+      sub_title: "大人気キャンペーン開催中"
+      title: "必見！今日の注目"
+      background_image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/bg.png"
+    standard_campaign:
+      title: "定番サービスのご利用チャンス"
+    recommended_campaign:
+      title: "サービス一押しのキャンペーンをおまとめ"
+      more_read_url: "https://point.rakuten.co.jp/campaign/?scid=wi_grp_gmx_more_pcb_hpn_app"
+      more_read_text: "キャンペーンをもっと見る"
+    campaigns:
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/wonderful.png"
+        url: "https://event.rakuten.co.jp/campaign/point-up/wonderfulday/?scid=wi_grp_gmx_ich_wonderful_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_wonderful_pcb_hpn_app"
+        start_date: "2021-06-01T00:00:00+09:00"
+        end_date: "2021-06-01T23:59:59+09:00"
+        target_device: ""
+        tagline: "毎月1日に開催！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/ss_2021_06_pre.png"
+        url: "https://event.rakuten.co.jp/campaign/supersale/?scid=wi_grp_gmx_ich_ss_pre_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_ss_pre_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-06-04T19:59:59+09:00"
+        target_device: ""
+        tagline: "6/4（金）20:00開始！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/ss_2021_06.png"
+        url: "https://event.rakuten.co.jp/campaign/supersale/?scid=wi_grp_gmx_ich_ss_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_ss_pcb_hpn_app"
+        start_date: "2021-06-04T20:00:00+09:00"
+        end_date: "2021-06-11T01:59:59+09:00"
+        target_device: ""
+        tagline: "2021/6/11 1:59まで"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/ss_slot.png"
+        url: "https://event.rakuten.co.jp/campaign/supersale/20210604bbsmu/lottery/?scid=wi_grp_gmx_ich_ss_slot_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "ただいま開催中！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_ich_ss_slot_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-06-11T01:59:59+09:00"
+        target_device: ""
+        tagline: "2021/6/11 1:59まで"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/marathon_202106_pre.png"
+        url: "https://event.rakuten.co.jp/campaign/point-up/marathon/?scid=wi_grp_gmx_ich_marathon_pre_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_marathon_pre_pcb_hpn_app"
+        start_date: "2021-06-20T10:00:00+09:00"
+        end_date: "2021-06-22T19:59:59+09:00"
+        target_device: ""
+        tagline: "6/22（火）20:00開始！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/marathon_202106.png"
+        url: "https://event.rakuten.co.jp/campaign/point-up/marathon/?scid=wi_grp_gmx_ich_marathon_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_marathon_pcb_hpn_app"
+        start_date: "2021-06-22T20:00:00+09:00"
+        end_date: "2021-06-26T01:59:59+09:00"
+        target_device: ""
+        tagline: "2021/6/26 1:59まで"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/marathon_kuji.png"
+        url: "https://event.rakuten.co.jp/campaign/point-up/marathon/20210622qydxh/lottery/?scid=wi_grp_gmx_ich_marathon_kuji_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "ただいま開催中！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_ich_marathon_kuji_pcb_hpn_app"
+        start_date: "2021-06-20T10:00:00+09:00"
+        end_date: "2021-06-26T01:59:59+09:00"
+        target_device: ""
+        tagline: "2021/6/26 1:59まで"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/marathon_quiz.png"
+        url: "https://event.rakuten.co.jp/campaign/point-up/marathon/20210622qydxh/quiz/?scid=wi_grp_gmx_ich_marathon_quiz_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "ただいま開催中！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_ich_marathon_quiz_pcb_hpn_app"
+        start_date: "2021-06-20T10:00:00+09:00"
+        end_date: "2021-06-26T01:59:59+09:00"
+        target_device: ""
+        tagline: "2021/6/26 1:59まで"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/ichiba18.png"
+        url: "https://event.rakuten.co.jp/campaign/rank/point/?scid=wi_grp_gmx_ich_18day_pcb_hpn_app"
+        service_key: "ichiba_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "要エントリー"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_ich_18day_pcb_hpn_app"
+        start_date: "2021-06-18T00:00:00+09:00"
+        end_date: "2021-06-18T23:59:59+09:00"
+        target_device: ""
+        tagline: "18日はご愛顧感謝デー"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-05T00:00:00+09:00"
+        end_date: "2021-06-05T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は5のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-10T00:00:00+09:00"
+        end_date: "2021-06-10T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は0のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-15T00:00:00+09:00"
+        end_date: "2021-06-15T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は5のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-20T00:00:00+09:00"
+        end_date: "2021-06-20T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は0のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-25T00:00:00+09:00"
+        end_date: "2021-06-25T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は5のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-06-30T00:00:00+09:00"
+        end_date: "2021-06-30T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は5のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-05-25T00:00:00+09:00"
+        end_date: "2021-05-25T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は5のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card5x.png"
+        url: "https://event.rakuten.co.jp/campaign/card/pointday/?scid=wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: "163631"
+        entry_unnecessary_text: ""
+        need_entry: "true"
+        sc_id: "wi_grp_gmx_ich_card5x_pcb_hpn_app"
+        start_date: "2021-05-30T00:00:00+09:00"
+        end_date: "2021-05-30T23:59:59+09:00"
+        target_device: ""
+        tagline: "今日は0のつく日！"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/deal.png"
+        url: "https://event.rakuten.co.jp/superdeal/?scid=wi_grp_gmx_ich_deal_pcb_hpn_app"
+        service_key: "deal_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "毎日更新中！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_ich_deal_pcb_hpn_app"
+        start_date: "2021-01-01T00:00:00+09:00"
+        end_date: "2022-01-01T00:00:00+09:00"
+        target_device: ""
+        tagline: "今すぐチェック"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/garapon.png"
+        url: "https://point.rakuten.co.jp/doc/lottery/lucky/?l-id=pcb_kuji_hpn_app"
+        service_key: "garapon_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "毎日チャレンジ！"
+        need_entry: "false"
+        sc_id: "pcb_kuji_hpn_app"
+        start_date: "2021-01-01T00:00:00+09:00"
+        end_date: "2022-01-01T00:00:00+09:00"
+        target_device: ""
+        tagline: "今すぐチェック"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "1"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/city2x.png"
+        url: "https://www.rakuten-card.co.jp/campaign/spt/cityx2/?scid=wi_grp_gmx_rcd_city2x_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: "街でもおトク！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rcd_city2x_pcb_hpn_app"
+        start_date: "2021-04-01T00:00:00+09:00"
+        end_date: "2021-06-30T00:00:00+09:00"
+        target_device: ""
+        tagline: "楽天カード"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "2"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/toolbar2x.png"
+        url: "https://toolbar.rakuten.co.jp/intro/everyday/members/campaign1/sp/?scid=wi_grp_gmx_too_toolbar2x_pcb_hpn_app"
+        service_key: "toolbar_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: "毎月開催！"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_too_toolbar2x_pcb_hpn_app"
+        start_date: "2021-04-01T00:00:00+09:00"
+        end_date: "2021-06-30T00:00:00+09:00"
+        target_device: ""
+        tagline: "楽天ウェブ検索"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "2"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card_intro_2000.png"
+        url: "https://www.rakuten-card.co.jp/campaign/rakuten_card/susumail/group2/?scid=wi_grp_gmx_rcd_intro_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: "紹介でポイント"
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rcd_intro_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-06-30T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天カード"
+        genre_icon_url: ""
+        genre_text: ""
+        display_number: "2"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card_5000.png"
+        url: "https://ad2.trafficgate.net/t/r/10885/1441/99636_99636/?scid=wi_grp_gmx_card_start_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_card_start_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-06-14T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天カード"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/payment.png"
+        genre_text: "お支払い"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card_7000.png"
+        url: "https://ad2.trafficgate.net/t/r/12252/1441/99636_99636/?scid=wi_grp_gmx_card_start_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_card_start_pcb_hpn_app"
+        start_date: "2021-06-14T10:00:00+09:00"
+        end_date: "2021-06-21T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天カード"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/payment.png"
+        genre_text: "お支払い"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/card_5000.png"
+        url: "https://ad2.trafficgate.net/t/r/10885/1441/99636_99636/?scid=wi_grp_gmx_card_start_pcb_hpn_app"
+        service_key: "card_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_card_start_pcb_hpn_app"
+        start_date: "2021-06-21T10:00:00+09:00"
+        end_date: "2021-07-01T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天カード"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/payment.png"
+        genre_text: "お支払い"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/rpay_start.png"
+        url: "https://pay.rakuten.co.jp/campaign/new_register/?scid=wi_grp_gmx_3bnr_android?scid=wi_grp_gmx_rpay_start_pcb_hpn_app"
+        service_key: "rpay_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rpay_start_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-07-01T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天ペイ"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/payment.png"
+        genre_text: "お支払い"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/rakuma_start_300.png"
+        url: "https://rakuma.rakuten.co.jp/info/campaign/login/300/ichiba/?scid=wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        service_key: "rakuma_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        start_date: "2021-06-01T10:00:00+09:00"
+        end_date: "2021-06-04T19:59:59+09:00"
+        target_device: ""
+        tagline: "ラクマ"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/living.png"
+        genre_text: "暮らし"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/rakuma_start_333.png"
+        url: "https://rakuma.rakuten.co.jp/info/campaign/login/333/ss/202106/?scid=wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        service_key: "rakuma_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        start_date: "2021-06-04T20:00:00+09:00"
+        end_date: "2021-06-11T01:59:59+09:00"
+        target_device: ""
+        tagline: "ラクマ"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/living.png"
+        genre_text: "暮らし"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/rakuma_start_300.png"
+        url: "https://rakuma.rakuten.co.jp/info/campaign/login/300/ichiba/?scid=wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        service_key: "rakuma_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_rakuma_start_pcb_hpn_app"
+        start_date: "2021-06-11T02:00:00+09:00"
+        end_date: "2021-07-01T09:59:59+09:00"
+        target_device: ""
+        tagline: "ラクマ"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/living.png"
+        genre_text: "暮らし"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/point_bitcoin_start.png"
+        url: "https://point.rakuten.co.jp/bitcoin/introduction/?scid=wi_grp_gmx_point_bitcoin_start_pcb_hpn_app"
+        service_key: "bitcoin_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_point_bitcoin_start_pcb_hpn_app"
+        start_date: "2021-03-22T10:00:00+09:00"
+        end_date: "2021-07-30T23:59:59+09:00"
+        target_device: ""
+        tagline: "ポイントビットコイン"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/other.png"
+        genre_text: "その他"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/energy_gas_start.png"
+        url: "https://energy.rakuten.co.jp/gas/?scid=wi_grp_gmx_energy_gas_start_pcb_hpn_app"
+        service_key: "energy_flg"
+        new_service: "true"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_energy_gas_start_pcb_hpn_app"
+        start_date: "2021-03-01T12:00:00+09:00"
+        end_date: "2021-07-30T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天ガス"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/living.png"
+        genre_text: "暮らし"
+        display_number: "3"
+      - image_url: "https://point.rakuten.co.jp/img/happynews/cpcard/keiba_start.png"
+        url: "https://keiba.rakuten.co.jp/event/first?scid=wi_grp_gmx_point_keiba_start_pcb_hpn_app"
+        service_key: "keiba_flg"
+        new_service: "false"
+        entry_id: ""
+        entry_unnecessary_text: ""
+        need_entry: "false"
+        sc_id: "wi_grp_gmx_point_keiba_start_pcb_hpn_app"
+        start_date: "2021-05-01T00:00:00+09:00"
+        end_date: "2021-07-30T09:59:59+09:00"
+        target_device: ""
+        tagline: "楽天競馬"
+        genre_icon_url: "https://point.rakuten.co.jp/img/happynews/genre_icon/other.png"
+        genre_text: "その他"
+        display_number: "3"
+  goodbye-journey:
+    header_img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/img_garland.gif"
+    title: "今日も来てくれてありがとうございました"
+    odd-month-messages:
+      - message: "今日もポイ活がんばろう♪odd1"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 1
+      - message: "今日もポイ活がんばろう♪odd2"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 2
+      - message: "今日もポイ活がんばろう♪odd3"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 3
+      - message: "今日もポイ活がんばろう♪odd4"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 4
+      - message: "今日もポイ活がんばろう♪odd5"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 5
+      - message: "今日もポイ活がんばろう♪odd6"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 6
+      - message: "今日もポイ活がんばろう♪odd7"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 7
+      - message: "今日もポイ活がんばろう♪odd8"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 8
+      - message: "今日もポイ活がんばろう♪odd9"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 9
+      - message: "今日もポイ活がんばろう♪odd10"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 10
+      - message: "今日もポイ活がんばろう♪odd11"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 11
+      - message: "今日もポイ活がんばろう♪odd12"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 12
+      - message: "今日もポイ活がんばろう♪odd13"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 13
+      - message: "今日もポイ活がんばろう♪odd14"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 14
+      - message: "今日もポイ活がんばろう♪odd15"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 15
+      - message: "今日もポイ活がんばろう♪odd16"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 16
+      - message: "今日もポイ活がんばろう♪odd17"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 17
+      - message: "今日もポイ活がんばろう♪odd18"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 18
+      - message: "今日もポイ活がんばろう♪odd19"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 19
+      - message: "今日もポイ活がんばろう♪odd20"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 20
+      - message: "今日もポイ活がんばろう♪odd21"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 21
+      - message: "今日もポイ活がんばろう♪odd22"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 22
+      - message: "今日もポイ活がんばろう♪odd23"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 23
+      - message: "今日もポイ活がんばろう♪odd24"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 24
+      - message: "今日もポイ活がんばろう♪odd25"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 25
+      - message: "今日もポイ活がんばろう♪odd26"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 26
+      - message: "今日もポイ活がんばろう♪odd27"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 27
+      - message: "今日もポイ活がんばろう♪odd28"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 28
+      - message: "今日もポイ活がんばろう♪odd29"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 29
+      - message: "今日もポイ活がんばろう♪odd30"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 30
+      - message: "今日もポイ活がんばろう♪odd31"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 31
+    even-month-messages:
+      - message: "今日もポイ活がんばろう♪even1"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 1
+      - message: "今日もポイ活がんばろう♪even2"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 2
+      - message: "今日もポイ活がんばろう♪even3"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 3
+      - message: "今日もポイ活がんばろう♪even4"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 4
+      - message: "今日もポイ活がんばろう♪even5"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 5
+      - message: "今日もポイ活がんばろう♪even6"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 6
+      - message: "今日もポイ活がんばろう♪even7"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 7
+      - message: "今日もポイ活がんばろう♪even8"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 8
+      - message: "今日もポイ活がんばろう♪even9"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 9
+      - message: "今日もポイ活がんばろう♪even10"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 10
+      - message: "今日もポイ活がんばろう♪even11"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 11
+      - message: "今日もポイ活がんばろう♪even12"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 12
+      - message: "今日もポイ活がんばろう♪even13"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 13
+      - message: "今日もポイ活がんばろう♪even14"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 14
+      - message: "今日もポイ活がんばろう♪even15"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 15
+      - message: "今日もポイ活がんばろう♪even16"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 16
+      - message: "今日もポイ活がんばろう♪even17"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 17
+      - message: "今日もポイ活がんばろう♪even18"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 18
+      - message: "今日もポイ活がんばろう♪even19"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 19
+      - message: "今日もポイ活がんばろう♪even20"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 20
+      - message: "今日もポイ活がんばろう♪even21"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 21
+      - message: "今日もポイ活がんばろう♪even22"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 22
+      - message: "今日もポイ活がんばろう♪even23"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 23
+      - message: "今日もポイ活がんばろう♪even24"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 24
+      - message: "今日もポイ活がんばろう♪even25"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 25
+      - message: "今日もポイ活がんばろう♪even26"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 26
+      - message: "今日もポイ活がんばろう♪even27"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 27
+      - message: "今日もポイ活がんばろう♪even28"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 28
+      - message: "今日もポイ活がんばろう♪even29"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 29
+      - message: "今日もポイ活がんばろう♪even30"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 30
+      - message: "今日もポイ活がんばろう♪even31"
+        img_url: "https://point.rakuten.co.jp/doc/goodbye_journey/img/p002.png"
+        date: 31
+  personalized-modals:
+    skip_periods:
+      - from: "00:00:00+09:00"
+        to: "01:00:00+09:00"
+      - from: "07:00:00+09:00"
+        to: "08:00:00+09:00"
+    presentations:
+      image_modal:
+        - presentation_id: "month_granted_point_guinness_20210823"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "月間獲得ポイント\n過去最多達成！"
+            text_color: "#333333"
+          description:
+            text: "今月の獲得ポイント数が最近1年間での最高記録に!おめでとうございます\n獲得ポイントの明細を見てみましょう"
+            text_color: "#333333"
+          cta_button:
+            text: "レポートを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "central_setting_tutorial_20210823"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/sp/img/top/pointdepositburn/img_pointdepositburn_modal.png"
+          title:
+            text: ""
+            text_color: ""
+          description:
+            text: "運用を体験する、毎月のスマホ代に…\nポイントを楽しく上手に使いましょう"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの使い方を選ぶ"
+            button_link: "https://point.rakuten.co.jp/club/app/central-setting/?l-id=point_ptop_modal_central_app"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone10000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "1万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n1万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone50000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "5万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n5万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone100000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "10万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n10万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone150000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "15万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n15万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone200000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "20万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n20万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone250000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "25万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n25万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone300000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "30万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n30万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone350000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "35万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n35万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone400000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "40万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n40万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone450000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "45万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n45万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone500000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "50万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n50万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone600000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "60万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n60万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone700000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "70万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n70万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone800000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "80万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n80万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone900000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "90万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n90万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone1000000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "100万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n100万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone1500000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "150万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n150万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone2000000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "200万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n200万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone2500000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "250万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n250万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone3000000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "300万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n300万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone3500000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "350万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n350万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone4000000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "400万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n400万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone4500000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "450万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n450万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+        - presentation_id: "milestone5000000"
+          background_color: "#FFFFFF"
+          image_url: "https://point.rakuten.co.jp/img/app/personalizedmodal/guinness_month.png"
+          title:
+            text: "500万 ポイントゲッター"
+            text_color: "#333333"
+          description:
+            text: "今までに獲得したポイントが\n500万ポイントを超えました!"
+            text_color: "#333333"
+          cta_button:
+            text: "ポイントの獲得トレンドを見る"
+            button_link: "https://point.rakuten.co.jp/history/"
+            text_color: "#333333"
+            background_color: "#FFD633"
+          close_button:
+            mark_color: "#717171"
+            background_color: "#FFFFFF[00]"
+    conditions:
+      year_granted_point_guinness:
+        point_lower_limit: 1000
+      month_granted_point_guinness:
+        point_lower_limit: 100
+      customize:
+        - display_type: 0
+          category_id: "month_granted_point_guinness"
+          condition_id: "month_granted_point_guinness_202108"
+          presentation_id: "month_granted_point_guinness_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: [true]
+          start_date_time: "2021-08-01T00:00:00+09:00"
+          end_date_time: "2021-08-31T23:59:59+09:00"
+        - display_type: 0
+          category_id: "month_granted_point_guinness"
+          condition_id: "month_granted_point_guinness_202109"
+          presentation_id: "month_granted_point_guinness_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: [true]
+          start_date_time: "2021-09-01T00:00:00+09:00"
+          end_date_time: "2021-09-30T23:59:59+09:00"
+        - display_type: 0
+          category_id: "month_granted_point_guinness"
+          condition_id: "month_granted_point_guinness_202110"
+          presentation_id: "month_granted_point_guinness_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: [true]
+          start_date_time: "2021-10-01T00:00:00+09:00"
+          end_date_time: "2021-10-31T23:59:59+09:00"
+        - display_type: 0
+          category_id: "month_granted_point_guinness"
+          condition_id: "month_granted_point_guinness_202111"
+          presentation_id: "month_granted_point_guinness_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: [true]
+          start_date_time: "2021-11-01T00:00:00+09:00"
+          end_date_time: "2021-11-30T23:59:59+09:00"
+        - display_type: 0
+          category_id: "month_granted_point_guinness"
+          condition_id: "month_granted_point_guinness_202112"
+          presentation_id: "month_granted_point_guinness_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: [true]
+          start_date_time: "2021-12-01T00:00:00+09:00"
+          end_date_time: "2021-12-31T23:59:59+09:00"
+        - display_type: 0
+          category_id: "central_setting_tutorial"
+          condition_id: "central_setting_tutorial_20210823"
+          presentation_id: "central_setting_tutorial_20210823"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: [100, unlimited]
+          term_point: []
+          lifetime_granted_point: []
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-06-29T10:00:00+09:00"
+          end_date_time: "2121-12-31T10:00:00+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_10000"
+          presentation_id: "milestone10000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [10000, 49999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_50000"
+          presentation_id: "milestone50000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [50000, 99999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_100000"
+          presentation_id: "milestone100000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [100000, 149999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_150000"
+          presentation_id: "milestone150000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [150000, 199999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_200000"
+          presentation_id: "milestone200000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [200000, 249999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_250000"
+          presentation_id: "milestone250000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [250000, 299999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_300000"
+          presentation_id: "milestone300000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [300000, 349999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_350000"
+          presentation_id: "milestone350000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [350000, 399999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_400000"
+          presentation_id: "milestone400000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [400000, 449999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_450000"
+          presentation_id: "milestone450000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [450000, 499999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_500000"
+          presentation_id: "milestone500000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [500000, 599999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_600000"
+          presentation_id: "milestone600000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [600000, 699999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_700000"
+          presentation_id: "milestone700000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [700000, 799999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_800000"
+          presentation_id: "milestone800000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [800000, 899999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_900000"
+          presentation_id: "milestone900000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [900000, 999999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_1000000"
+          presentation_id: "milestone1000000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [1000000, 1499999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_1500000"
+          presentation_id: "milestone1500000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [1500000, 1999999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_2000000"
+          presentation_id: "milestone2000000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [2000000, 2499999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_2500000"
+          presentation_id: "milestone2500000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [2500000, 2999999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_3000000"
+          presentation_id: "milestone3000000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [3000000, 3499999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_3500000"
+          presentation_id: "milestone3500000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [3500000, 3999999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_4000000"
+          presentation_id: "milestone4000000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [4000000, 4499999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_4500000"
+          presentation_id: "milestone4500000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [4500000, 4999999]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+        - display_type: 1
+          category_id: "lifetime_granted_point_milestone"
+          condition_id: "lifetime_granted_point_milestone_5000000"
+          presentation_id: "milestone5000000"
+          user_attributes: []
+          usable_point: []
+          fixed_std_point: []
+          term_point: []
+          lifetime_granted_point: [5000000, unlimited]
+          granted_point_in_this_month: []
+          granted_point_in_this_year: []
+          year_granted_point_guinness: []
+          month_granted_point_guinness: []
+          start_date_time: "2021-07-13T10:00:00+09:00"
+          end_date_time: "2121-07-01T09:59:59+09:00"
+  central-setting:
+    presentations:
+      image_banner_ui:
+        - presentation_id: "image_banner_ui_all_1"
+          image_url: "https://point.rakuten.co.jp/img/app/centralsetting/app-centralsetting-ui1-20210727.png"
+          link: "https://point.rakuten.co.jp/club/app/central-setting/?l-id=point_ptop_1_central_app"
+      title_description_ui:
+        - presentation_id: "title_description_ui_all_1"
+          title_text: "ポイントの使い方"
+          title_text_color: "#333333"
+          description_text: "今すぐ選ぶ"
+          description_text_color: "#717171"
+          link: "https://point.rakuten.co.jp/club/app/central-setting/?l-id=point_ptop_2_central_app"
+          border_color: "#EBEBEB"
+          background_color: "#FFFFFF"
+          arrow_color: "#717171"
+    conditions:
+      - presentation_id: "image_banner_ui_all_1"
+        platform: []
+        user_attributes:
+          - user_attribute_flg_key: "central_setting_flg"
+            user_attribute_flg_values: ["1"]
+        term_point: []
+        start_date_time: "2021-07-01T00:00:00+09:00"
+        end_date_time: "2031-07-31T23:59:59+09:00"
+      - presentation_id: "title_description_ui_all_1"
+        platform: []
+        user_attributes:
+          - user_attribute_flg_key: "central_setting_flg"
+            user_attribute_flg_values: ["0"]
+        term_point: []
+        start_date_time: "2021-07-01T00:00:00+09:00"
+        end_date_time: "2031-07-31T23:59:59+09:00"
